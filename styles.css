@@ -15,8 +15,7 @@
 
   h1.stein { 
   display: flex;
- 
-  justify-content:center;
+  justify-content:space-between;
   padding-left:5%;
   padding-right:5%;
   margin-bottom:5%;
