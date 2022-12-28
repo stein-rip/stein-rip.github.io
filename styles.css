@@ -5,11 +5,16 @@
   display: center;
 
   }
+
+  header {
+    display: flex;
+    justify-content: space-evenly;
+  }
   
 
   h1 { 
   display: flex;
-  justify-content:center;
+  justify-content:space-evenly;
   padding-left:2px;
   padding-right:2px;
   margin-bottom:0%;
