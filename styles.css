@@ -8,8 +8,9 @@
 
   header {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     width: auto;
+    height: auto:
   }
   
 
@@ -24,9 +25,11 @@
   color:rgb(0, 255, 4);
   border: solid rgb(0, 255, 4);
   background-color:rgba(33, 100, 145, 0.719);
-  font-size: 4px;
   }
   
+  .stein {
+    font-size: 1px;
+  }
 
 .enter {
  display: flex;
@@ -57,7 +60,7 @@
   
   #smiley {
     padding-top:30px;
-    padding-left:30px;
-    padding-right:30px;
+    padding-left:10px;
+    padding-right:10px;
   }
 }
