@@ -1,25 +1,31 @@
-@media screen and (min-width: 100px) {
+@media screen and (min-width: 360px) {
 
 header {
-width:60%;
+display: flex;
+justify-content:baseline;
+
 }
 
 .sitelist {
-  text-transform: capitalize;
-  justify-content: center;
   color:rgb(43, 226, 186);
+  list-style-type:armenian;
+  justify-content: flex-end;
 }
 
 ul {
-    font-size: 15px;
+    font-size: 20px;
+
    
   }
 
   a {
-color:rgb(20, 149, 39)
+color:rgb(84, 20, 149);
+font-weight: 100;
   }
 
-.enter {
-  justify-content: center;
+
+.blinkies{
+display: flex;
+justify-content: center;
 }
 }
