@@ -1,4 +1,4 @@
-@media screen and (min-width: 200px) {
+@media screen and (min-width: 360px) {
 
   body {
   position:relative;
@@ -6,21 +6,21 @@
 
   }
 
-  header {
-    display:flex;
-    justify-content: center;
-    
+  header.stein {
+    display: flex;
+    justify-content: space-evenly;
+   
   }
   
 
   h1.stein { 
   display: flex;
-  justify-content:space-between;
-  padding-left:5%;
-  padding-right:5%;
+  justify-content:space-around;
+  padding-left:2px;
+  padding-right:2px;
   margin-bottom:5%;
-  margin-left: 5px;
-  margin-right: 5px;
+  margin-left: auto;
+  margin-right: auto;
   color:rgb(0, 255, 4);
   border: solid rgb(0, 255, 4);
   background-color:rgba(33, 100, 145, 0.719);
@@ -31,8 +31,7 @@
 .enter {
  display: flex;
  justify-content: center;
- padding-bottom: 20px;
- padding-top: 20px;
+ padding-bottom: 0;
 
 }
  
@@ -42,8 +41,7 @@
   }
   
   #tama {
-    display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     padding-top: 10px;
   }
   
