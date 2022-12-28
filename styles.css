@@ -11,7 +11,10 @@
     justify-content: space-evenly;
    
   }
-  
+  pre {
+display: flex;
+justify-content: space-between;
+  }
 
   h1.stein { 
   display: flex;
