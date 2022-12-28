@@ -6,28 +6,25 @@ body {
 }
 
 header {
-
-justify-content:flex-start;
-width: 30px;
-
+width: 60px;
+margin-top:40px;
+margin-bottom:40px;
 
 }
 
 .sitelist {
-  color:rgb(43, 226, 186);
+  color:rgb(113, 226, 184);
   position:sticky;
-  background-color: aliceblue;
+  background-color: rgb(168, 187, 77);
   margin: 50px;
   align-self: center;
- padding: 5%;
+ padding: 8%;
 }
 
 ul a {
     font-size: 20px;
     justify-content: center;
-    padding-top: 30px;
-    padding-left: 4px;
-    color:rgb(255, 0, 242);
+    color:rgb(1, 9, 5);
   text-decoration:solid;
    
   }
