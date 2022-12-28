@@ -1,7 +1,11 @@
 @media screen and (min-width: 100px) {
-body {
+
+  body {
   display:flex;
   justify-content: center;
+  font-family: 'Tangerine', serif;
+  font-size: 55px;
+  }
 }
 
 header {
@@ -19,20 +23,27 @@ margin-left: 80px;
   margin: 50px;
   align-self: center;
   word-spacing: 3px;
-  padding: 16px;
-background-image:url()
+  
+
 
 
 }
 
-a {
+ul a {
+
   color:rgb(116, 3, 107);
   font-size: 20px;
-  
+ 
  
 }
 
-a:hover {
-  color:rgb(223, 226, 43);
+ul {
+  padding:3%;
+  background-color: antiquewhite;
+  
 }
+
+a:hover  {
+  color:rgb(223, 226, 43);
+  
 }
