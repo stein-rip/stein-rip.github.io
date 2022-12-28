@@ -1,34 +1,33 @@
-@media screen and (min-width: 100px) {
+@media screen and (min-width: 200px) {
 
   body {
-  position:sticky;
+  position:relative;
   display: center;
 
   }
 
   header {
-    display: flex;
-    justify-content: space-between;
-    position:sticky;
+    display:flex;
+    justify-content: center;
+    
   }
   
 
   h1.stein { 
   display: flex;
+ 
   justify-content:center;
-  padding-left:10%;
-  padding-right:10%;
+  padding-left:5%;
+  padding-right:5%;
   margin-bottom:5%;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 5px;
+  margin-right: 5px;
   color:rgb(0, 255, 4);
   border: solid rgb(0, 255, 4);
   background-color:rgba(33, 100, 145, 0.719);
+  font-size: 4px;
   }
   
-  .stein {
-    font-size: 1px;
-  }
 
 .enter {
  display: flex;
@@ -44,20 +43,23 @@
   }
   
   #tama {
-    justify-content: space-evenly;
+    display: flex;
+    justify-content: center;
     padding-top: 10px;
   }
   
   #hamster {
-    display: flex;
-    justify-content: center;
+    display:flex;
+    justify-content:center;
     padding-top: 5px;
     padding-bottom:20px;
-    margin: auto; 
+
     
   }
   
   #smiley {
+    display: flex;
+    justify-content: space-evenly;
     padding-top:30px;
     padding-left:10px;
     padding-right:10px;
