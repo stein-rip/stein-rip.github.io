@@ -6,14 +6,14 @@
 
   }
 
-  header {
+  header#text {
     display: flex;
     justify-content: space-evenly;
-    background-size: 100%;
+    min-width: 70%;
   }
   
 
-  h1 { 
+  h1.stein { 
   display: flex;
   justify-content:space-evenly;
   padding-left:2px;
