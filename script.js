@@ -85,7 +85,7 @@ function set_width() {
   shigh=sh_min;
 }
 
-let userName = prompt("Woah you came! What's your name?");
+let userName = prompt("Woah, you came! Cooool. What's your name?");
 console.log("Name: " + userName);
-let feedpets = alert ("Hi, " + userName + "! Don't even be rude. Meet D.A.R.E and Pinch before you ENTER!  🥚 💙 🐹"); 
+let feedpets = alert ("Hi, " + userName + "! I hope you find some things to think about on my anti-social media suicite. Thanks for coming! And hey, don't even be rude. Meet D.A.R.E (the tamagotchi) and Pinch before you ENTER!!  🥚 💙 🐹 "); 
 
