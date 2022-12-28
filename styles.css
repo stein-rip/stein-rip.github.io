@@ -9,6 +9,7 @@
   header {
     display: flex;
     justify-content: space-evenly;
+    background-size: 100%;
   }
   
 
