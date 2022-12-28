@@ -87,5 +87,6 @@ function set_width() {
 
 let userName = prompt("Woah, you came! Cooool. What's your name?");
 console.log("Name: " + userName);
-let feedpets = alert ("Hi, " + userName + "! I hope you have the day you deserve on my anti-social media suicite. * <3 * Thanks for coming! And don't even try to be rude. Meet D.A.R.E (the tamagotchi) and Pinch (the ham) before you ENTER!! 👁️ 👄 👁️"); 
+let feedpets = alert ("Hi, " + userName + "! I hope you have the day you deserve on my anti-social media suicite. Thanks for coming!");
+let alert = "Oh, and don't even be rude. Meet D.A.R.E (the tamagotchi) and Pinch (the ham) before you ENTER!! 👁️ 👄 👁️ ...they're waiting.");
 
