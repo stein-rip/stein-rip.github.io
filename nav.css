@@ -2,14 +2,15 @@
 
 header {
 display: flex;
-justify-content:baseline;
+background-size: 100%;
+justify-content:center;
+background-size:100%;
 
 }
 
 .sitelist {
   color:rgb(43, 226, 186);
-  list-style-type:armenian;
-  justify-content: flex-end;
+  size
 }
 
 ul {
