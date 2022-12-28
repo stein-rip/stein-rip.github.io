@@ -3,13 +3,14 @@
   body {
   position:relative;
   display: center;
+  align-items: center;
 
   }
 
   header.stein {
     display: flex;
     justify-content: space-evenly;
-   
+   align-items: center;
   }
   pre {
 display: flex;
@@ -34,7 +35,7 @@ justify-content: space-between;
 .enter {
  display: flex;
  justify-content: center;
- padding-bottom: 0;
+ align-items: center;
 
 }
  
@@ -47,6 +48,7 @@ justify-content: space-between;
   #tama {
     justify-content: space-evenly;
     padding: 20px;
+    align-items: center;
   }
   
   #hamster {
@@ -60,6 +62,7 @@ justify-content: space-between;
   #smiley {
     display: flex;
     justify-content: space-evenly;
+    
     padding-top:30px;
     padding-left:10px;
     padding-right:10px;
