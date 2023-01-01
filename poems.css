@@ -6,7 +6,6 @@ body {
 
 .verses {
 color:bisque;
-border: solid aquamarine;
 padding:20px;
 text-align: center;
 background-color: black;
@@ -18,7 +17,16 @@ header {
 }
 
 .footer {
-    color: bisque;
+    color: greenyellow;
+    padding: 20px;
+    
+}
+
+.softer {
+    color: pink;
+    padding:10px;
+    font-size: 50px;
+    background: black;
     
 }
 }
