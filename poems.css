@@ -1,7 +1,7 @@
 @media screen and (min-width: 100px) {
 
 body {
-    margin: 20px;
+    margin: 60px;
 }
 
 .verses {
@@ -12,7 +12,7 @@ background-color: black;
 }
 
 header {
-    color: bisque;
+    color: greenyellow;
     text-align: center;
 }
 
@@ -27,6 +27,7 @@ header {
     padding:10px;
     font-size: 50px;
     background: black;
+    margin:
     
 }
 }
