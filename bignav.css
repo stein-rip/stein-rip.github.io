@@ -1,8 +1,55 @@
 @media screen and (min-width: 100px) {
 
     body {
- background: yellowgreen;
-text-align: center;
+        margin:10%;
+        justify-content:center;
+        display:flex;
     }
 
+    header {
+        display:flex;
+        justify-content: center;
+       
     }
+
+    .navhead {
+        display: flex;
+        justify-content:space-between;
+        background-color:peachpuff;
+        margin: 20px;
+    }
+
+   .bignavlinks {
+        position: relative;
+        background-color: peachpuff;
+        padding: 10px;
+    
+
+
+    }
+
+    /* innermonologue css */
+
+
+
+    h6 {
+        margin-right: 20px;
+        align-self: center;
+    
+    }
+
+    h1 {
+        margin: 20px;
+       color: black;
+       text-orientation: sideways-right;
+    }
+
+   marquee { 
+    font-size:50px;
+    border: solid 10px;
+    margin-left: 0;
+    color: black;
+    background:peachpuff;
+    };
+
+}
