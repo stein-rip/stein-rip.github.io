@@ -6,23 +6,20 @@
         display:flex;
     }
 
-    header {
-        display:flex;
-        justify-content: center;
-       
-    }
 
     .navhead {
         display: flex;
-        justify-content:space-between;
+        justify-content: center;
         background-color:peachpuff;
         margin: 20px;
     }
 
    .bignavlinks {
-        position: relative;
+        display: column;
+        align-content: flex-end;
         background-color: peachpuff;
         padding: 10px;
+        width:fit-content;
     
 
 
@@ -31,15 +28,8 @@
     /* innermonologue css */
 
 
-
-    h6 {
-        margin-right: 20px;
-        align-self: center;
-    
-    }
-
     h1 {
-        margin: 20px;
+        margin: 10px;
        color: black;
        text-orientation: sideways-right;
     }
